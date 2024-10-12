@@ -69,7 +69,7 @@ Start creating content for social good and take control of your digital future w
 ## 📬 **Connect with Us**
 
 - [Website](https://github.com/ImPctX)
-- [Twitter]([https://twitter.com/impactx](https://x.com/impactX000)
+- [Twitter]([https://twitter.com/impactx](https://x.com/impactX000))
 
 
 ## 🏅 **Badges**:
