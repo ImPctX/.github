@@ -69,19 +69,9 @@ Start creating content for social good and take control of your digital future w
 
 ## 📬 **Connect with Us**
 
-- [Website](https://impactxplatform.com)
-- [Twitter](https://twitter.com/impactx)
-- [Discord](https://discord.gg/impactx)
-- [Medium](https://medium.com/@impactx)
-- [Telegram](https://t.me/impactx)
+- [Website](https://github.com/ImPctX)
+- [Twitter]([https://twitter.com/impactx](https://x.com/impactX000)
 
----
-
-### 🛠️ **Technologies We Use**:
-
-![Technologies](https://skillicons.dev/icons?i=blockchain,solidity,nft,react,js,ts,python,graphql)
-
----
 
 ## 🏅 **Badges**:
 
