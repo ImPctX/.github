@@ -82,9 +82,3 @@ Start creating content for social good and take control of your digital future w
 ---
 
 > _“ImpactX isn’t just a platform; it’s a movement towards a fairer, decentralized, and socially impactful future.”_
-
----
-
-**Note**: Make sure to replace `https://yourimageurlhere.com/` with actual URLs pointing to your animated GIFs and assets. You can host GIFs on services like Giphy or Imgur if necessary.
-
----
