@@ -12,9 +12,9 @@ ImpactX combines **blockchain**, **smart contracts**, and **NFTs** to empower cr
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | 🛡️ **Decentralized Ownership** | Blockchain ensures creators control their content and revenue.                                                                                 | ![Blockchain Animation](https://yourimageurlhere.com/blockchain.gif) |
 | 🎨 **NFT Marketplace**  | Mint and sell content as **NFTs**, while contributing to **social causes**.                                                                       | ![NFT Animation](https://yourimageurlhere.com/nft.gif) |
-| 💸 **Revenue Sharing**  | Revenue is shared among creators, viewers, and charitable organizations, benefiting all stakeholders.                                            | ![Revenue Animation](https://yourimageurlhere.com/revenue.gif) |
-| ⚖️ **DAO Governance**   | The community votes on platform changes, ensuring **transparency** in decision-making.                                                          | ![DAO Animation](https://yourimageurlhere.com/dao.gif) |
-| 🌍 **Social Good**      | Focus on content that supports real-world causes, such as **empowering women**, **conserving the environment**, and supporting **mental health**. | ![Social Good Animation](https://yourimageurlhere.com/social-good.gif) |
+| 💸 **Revenue Sharing**  | Revenue is shared among creators, viewers, and charitable organizations, benefiting all stakeholders.                                            | ![Revenue Animation](https://yourimageurlhere.com/revenue-sharing-animation.gif) |
+| ⚖️ **DAO Governance**   | The community votes on platform changes, ensuring **transparency** in decision-making.                                                          | ![DAO Animation](https://yourimageurlhere.com/dao-governance-animation.gif) |
+| 🌍 **Social Good**      | Focus on content that supports real-world causes, such as **empowering women**, **conserving the environment**, and supporting **mental health**. | ![Social Good Animation](https://yourimageurlhere.com/social-good-animation.gif) |
 
 ## 📈 **The Problem with Traditional Social Media**
 
@@ -70,7 +70,6 @@ Start creating content for social good and take control of your digital future w
 
 - [Website](https://github.com/ImPctX)
 - [X](https://x.com/impactX000)
-
 
 ## 🏅 **Badges**:
 
